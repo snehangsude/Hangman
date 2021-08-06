@@ -1,5 +1,5 @@
 # Hangman
-The Hangman game implemented using GUI
+The Hangman game implemented using GUI and integrated with a random word generator <a href="http://random-word-api.herokuapp.com/home">API</a>
 
 ### Written in python 3.9 
 
@@ -30,3 +30,11 @@ The Hangman game implemented using GUI
 
 * Unsuccessful guess
 <img src="images/Hangman5.PNG">
+
+## How to use
+
+* Run the application using the Installation section
+* Select Level as per your choice - Easy: 10 || Normal: 7 || Hard: 5
+* Once you guess the word or your lives end the window will prompt the instruction as in the last two images
+* Pressing any key would restart the game with a delay of 1 second
+
